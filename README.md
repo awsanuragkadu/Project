@@ -1,4 +1,3 @@
 # Project
-
 <br>
-DevOps Project by By Anurag Kadu
+DevOps Project by DevOps Engineer Anurag Kadu.
